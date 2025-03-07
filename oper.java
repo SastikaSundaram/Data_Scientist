@@ -17,9 +17,7 @@ public class oper {
                 case "mul":
                     num*=val;
                     break;
-                case "div":
-                    num/=val;
-                    break;
+                
             }
         }
             System.out.println(num);
